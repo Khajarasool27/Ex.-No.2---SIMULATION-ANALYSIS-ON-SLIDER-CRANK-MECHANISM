@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 27/12/2024
+## DATE: 21/10/2024
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -36,8 +36,8 @@
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
 ## Output
-![image](https://github.com/user-attachments/assets/7cf42305-9efc-4bae-b584-9321c5648ba5)
-![image](https://github.com/user-attachments/assets/0e08523d-44ff-498e-abc2-921694fe8676)
+![image](https://github.com/user-attachments/assets/a9e80f50-6db4-4575-8138-aff598e182ee)
+![image](https://github.com/user-attachments/assets/fcc26afb-652c-4131-91cc-e75936a544e3)
 
 
 ### Name:B.Khaja Rasool
